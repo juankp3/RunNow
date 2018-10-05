@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RunNow</string>
+    <string name="welcome_title">Welcome to RunNow App</string>
+    <string name="start_running_button">Start Running</string>
+    <string name="pause_running">Pause Running</string>
+    <string name="restart_running">Restart Running</string>
+    <string name="resume_running">Resume Running</string>
+</resources>
